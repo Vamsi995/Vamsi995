@@ -43,7 +43,7 @@
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png'> </a>
    <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png'> </a>
   
-<br>
+
 
 - <h3>Databases & Cloud</h3>
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src ='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg'> </a>
@@ -52,12 +52,12 @@
    <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src ='https://www.seidengroup.com/wp-content/uploads/2020/12/mariadb-logo.png'> </a>
    <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png'> </a>
 
-<br>
+
 
 - <h3>Operating Systems</h3>
    <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/768px-UbuntuCoF.svg.png?20120210072525'> </a>
    <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/768px-Microsoft_logo.svg.png?20210729021049'> </a>
-<br>
+
 
 - <h3>Frameworks</h3>
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png'> </a>
@@ -72,7 +72,6 @@
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://www.svgrepo.com/show/354115/nginx.svg'> </a>
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true'> </a>
   
-<br>
 
 
 <h2> <img src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='32px' height=32px> GitHub Stats </h2>
