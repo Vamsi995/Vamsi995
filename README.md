@@ -37,7 +37,7 @@
 
 <h2> <img src = "https://media.baamboozle.com/uploads/images/486794/1632048628_42571.gif" width = 32px height=30px> Tools </h2>
 
-<img width="45%" align="right" alt="Github" src="./assets/Working from anywhere-rafiki.svg" />
+<img width="45%" align="right" alt="Github" src="./assets/llustration Header.gif" />
 
 
 - <h3>Computing Environments</h3>
