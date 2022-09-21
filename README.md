@@ -86,6 +86,7 @@
 <a href= https://www.linkedin.com/in/sai-vamsi-alisetti-4892a4197/> <img width ='42px' height='42px' src  ='https://cdn-icons-png.flaticon.com/512/174/174857.png'> </a>
 <a href= https://www.instagram.com/_v.um.see_/ > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png'> </a>
 <a href= https://www.facebook.com/alisetti.vamsi > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/2048px-Facebook_icon_2013.svg.png'> </a>
+<a href= https://twitter.com/vumsee_ > <img width ='42px' height='42px' src  ='https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png'> </a>
 
 
 
