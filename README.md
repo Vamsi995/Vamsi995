@@ -64,11 +64,11 @@
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png'> </a>
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png'> </a>
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://www.gymlibrary.dev/_static/img/gym_logo_white.svg'> </a>
-  <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://cdn.freebiesupply.com/logos/large/2x/latex-logo-svg-vector.svg'> </a>
-  <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png'> </a>
+  <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png'> </a>
+  <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='62px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png'> </a>
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'> </a>
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png'> </a>
-  <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png'> </a>
+  <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='42px' src  ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png'> </a>
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://www.svgrepo.com/show/354115/nginx.svg'> </a>
   <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' height='42px' src  ='https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true'> </a>
   
