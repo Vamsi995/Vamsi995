@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hi,%20I'm%20Vamsi%20!!%20👋&fontSize=60&animation=fadeIn&fontAlignY=38&desc={Software%20Development}%20∪%20{Research}&animation=scaleIn&descAlignY=51&descAlign=62) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hi,%20I'm%20Vamsi%20!!%20👋&fontSize=60&animation=fadeIn&fontAlignY=38&desc={Software%20Development}%20∪%20{Research}&descAlignY=51&descAlign=62) 
 
 ![](https://komarev.com/ghpvc/?username=Vamsi995&label=PROFILE+VIEWS&color=dc143c)
 
