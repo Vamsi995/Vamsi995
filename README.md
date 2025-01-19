@@ -12,12 +12,13 @@
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on deep learning/software designs
-- 🌱 I’m currently learning software design patterns
-- 👯 I’m looking to collaborate on deep learning research
-- 🤔 I’m looking for help with interview preparation
-- 💬 Ask me about Python, Reinforcement Learning, Deep Learning, Software Development, Systems Design, Web Development
-- ⚡ Fun fact: I make amazing pencil sketches. 
+- 🏢 I am currently pursuing my Master's Degree in Computer Science at the University of California, Santa Barbara.
+- 🔭 I’m currently working on deep learning/software designs.
+- 🌱 I’m currently learning software design patterns.
+- 👯 I’m looking to collaborate on deep learning research.
+- 🤔 I’m looking for help with interview preparation.
+- 💬 Ask me about Python, Systems, Graph Machine Learning, Reinforcement Learning, Deep Learning, Software Development.
+- ⚡ Fun fact: I make amazing pencil sketches.
 
 
 <!-- Languages -->
